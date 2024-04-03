@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # others
-.dataset_zip/
+.dataset_zip/*

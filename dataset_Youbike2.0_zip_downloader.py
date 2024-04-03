@@ -24,8 +24,8 @@ def download_file(url: str, save_path: str) -> None:
 
 
 if __name__ == '__main__':
-    DATASET_DIRNAME = "dataset_zip"
-    DATASET_DOWNLOAD_LIST = "dataset_zip_list.csv"
+    DATASET_DIRNAME = "dataset_Youbike2.0票證資料_zip"
+    DATASET_DOWNLOAD_LIST = "dataset_Youbike2.0票證資料_list.csv"
     os.system(f"mkdir -p ./{DATASET_DIRNAME}")
     df = pd.read_csv(DATASET_DOWNLOAD_LIST)
 
