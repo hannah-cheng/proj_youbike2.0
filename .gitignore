@@ -163,3 +163,4 @@ cython_debug/
 raw_dataset_Youbike2.0票證資料/*
 preprocessed_dataset_Youbike2.0票證資料_*/*
 *.zip
+*.csv
