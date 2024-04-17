@@ -160,7 +160,8 @@ cython_debug/
 #.idea/
 
 # others
+*.csv
+*.zip
 raw_dataset_Youbike2.0票證資料/*
 preprocessed_dataset_Youbike2.0票證資料_*/*
-*.zip
-*.csv
+raw_dataset_臺北(466920)測站時序圖日報表(逐時資料)/*
